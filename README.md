@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://github.com/paolalf2508-prog/img2/blob/54f6daa1d8085815c1182713fb45857b9f5f0244/img4.png" width="100%" />
+  <img src="https://github.com/paolalf2508-prog/paolalf2508-prog/blob/f7475d6cdb4a358079f9dde13929c9278d523d60/img4.png" width="100%" />
 </p>
 
 <!-- Encabezado con gatito a la derecha -->
