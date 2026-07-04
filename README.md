@@ -111,7 +111,7 @@ Me gusta desarrollar software con buenas prácticas, arquitecturas limpias y una
 ---
 
 <p align="center">
-  <img src="https://github.com/paolalf2508-prog/img/blob/15c137124ace473cdafcb0a7031de6db132495ea/img3.png" width="2000"/>
+  <img src="https://github.com/paolalf2508-prog/paolalf2508-prog/blob/28dc607745f9ab316b237f55296b42f242d50e55/img3.png" width="2000"/>
 </p>
 
 ---
