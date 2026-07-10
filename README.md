@@ -88,21 +88,24 @@ Me gusta desarrollar software con buenas prácticas, arquitecturas limpias y una
 
 <div align="center" style="display:flex; align-items:center; justify-content:center; gap:30px; flex-wrap:wrap;">
 
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-  </a>
+  <!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/sandra-paola-limon-flores-70b25538a" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+</a>
 
   <a href="mailto:sandralimon679@gmail.com" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
   </a>
 
-  <a href="https://github.com/TU_USUARIO" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/>
-  </a>
+  <!-- GitHub -->
+<a href="https://github.com/paolalf2508-prog" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+</a>
 
-  <a href="TU_PORTAFOLIO" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/96/domain.png" width="50"/>
-  </a>
+<!-- Portafolio -->
+<a href="https://por-ebon.vercel.app/" target="_blank">
+  <img src="https://img.icons8.com/color/96/domain.png" width="50" alt="Portafolio"/>
+</a>
 
 </div>
 
@@ -119,3 +122,4 @@ Me gusta desarrollar software con buenas prácticas, arquitecturas limpias y una
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:ff1493&height=120&section=footer"/>
 </p>
+```html
