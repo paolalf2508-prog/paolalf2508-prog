@@ -52,9 +52,11 @@ Me gusta desarrollar software con buenas prácticas, arquitecturas limpias y una
    💻 TECNOLOGÍAS Y HERRAMIENTAS 💻
 </h2>
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,java,python,nodejs,firebase,mysql,postgres,sqlite,html,css,tailwind,bootstrap,git,github,vscode&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,java,python,php,nodejs,firebase,mysql,postgres,sqlite,html,css,tailwind,bootstrap,git,github,vscode&perline=10"/>
 </p>
+
 
 ---
 
@@ -114,7 +116,6 @@ Me gusta desarrollar software con buenas prácticas, arquitecturas limpias y una
 ---
 
 <p align="center">
-  <img src="https://github.com/paolalf2508-prog/paolalf2508-prog/blob/28dc607745f9ab316b237f55296b42f242d50e55/img3.png" width="2000"/>
 </p>
 
 ---
@@ -122,4 +123,4 @@ Me gusta desarrollar software con buenas prácticas, arquitecturas limpias y una
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:ff1493&height=120&section=footer"/>
 </p>
-```html
+
