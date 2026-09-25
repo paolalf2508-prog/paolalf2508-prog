@@ -49,7 +49,7 @@ Me gusta desarrollar software con buenas prácticas, arquitecturas limpias y una
 ---
 
 <h2 align="center" style="color:#ff1493; font-size:28px;">
-   💻 TECNOLOGÍAS Y HERRAMIENTAS 💻
+    TECNOLOGÍAS Y HERRAMIENTAS 
 </h2>
 
 
@@ -61,7 +61,7 @@ Me gusta desarrollar software con buenas prácticas, arquitecturas limpias y una
 ---
 
 <h2 align="center" style="color:#ff1493; font-size:28px;">
-   🚀 ACTUALMENTE 🚀
+    ACTUALMENTE 
 </h2>
 
 <!-- Tarjetas horizontales en lugar de lista vertical -->
@@ -85,7 +85,7 @@ Me gusta desarrollar software con buenas prácticas, arquitecturas limpias y una
 ---
 
 <h2 align="center" style="color:#ff1493; font-size:28px;">
-   💌 CONECTEMOS 💌
+    CONECTEMOS 
 </h2>
 
 <div align="center" style="display:flex; align-items:center; justify-content:center; gap:30px; flex-wrap:wrap;">
